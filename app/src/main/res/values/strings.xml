@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Islamic_gadget</string>
+    <string name="title_activity_location">Map</string>
+    <string name="location">
+        "press accept button to set your\n"
+           "autometic location  tracking\n"
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
